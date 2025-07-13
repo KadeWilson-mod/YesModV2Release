@@ -1,1 +1,1 @@
-# YesModV2Release
+# YesModV2Release NEOFORGE REQUIRED 1.21.4
